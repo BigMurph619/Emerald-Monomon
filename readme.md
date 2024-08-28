@@ -1,6 +1,6 @@
 # Monomon Rules
 
-### [Core Game Rules](#core-game-rules) | [Settings](#settings) | [FRLG Game Specifics](#specific-game-rules)
+### [Core Game Rules](#core-game-rules) | [Settings](#settings) | [FRLG Game Specifics](#specific-game-rules) | [Credits](#Credits)
 
 # Core Game Rules:
 
@@ -172,6 +172,10 @@ Catch rates are 100%
 
 14. All held items found on pivot options/HM friend catches are allowed to be kept. "Catch and release" mon held items are not allowed. 
     - Purchased/gifted mon's items are not allowed i.e. Magikarp Route 4, Silph Co. Lapras, Dojo Hitmon. 
-    - You may not catch a wild mon unless it is a pivot option, Shiny, or needed for HM friend. 
+    - You may not catch a wild mon unless it is a pivot option, Shiny, or needed for HM friend.
+
+# Credits
+ - [iateyourpie](https://www.twitch.tv/iateyourpie) Inspired by Kaizo IronMON
+ - [PyroMike](https://github.com/PyroMikeGit) For the Smart AI Randomizer v2
 
 ### [Top](#monomon-rules) | [Core Game Rules](#core-game-rules) | [Settings](#settings) | [FRLG Game Specific](#specific-game-rules)
