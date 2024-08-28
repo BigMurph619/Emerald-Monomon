@@ -23,6 +23,8 @@ No Redos: You may not re-fight trainers at any point using the VS Seeker or othe
 
 No HM Moves on your primary Pokemon. No may use HM moves during double battles with your second Pokemon.
 
+You are not allowed to setup for boss fights
+
 You can only enter a dungeon once with your primary Pokemon unless the story requires a revisit.
 You may not use healing stations in Dungeons.
 You must clear (Game progression without leaving to heal) Dungeons before exiting (Beat All Trainers in Gyms including Dojo, clear needed game progress elsewhere).
@@ -130,12 +132,12 @@ Catch rates are 100%
 
 1. You may pick any mon you want in the lab that is 555 BST or lower. You may keep its held item. **No legendaries allowed.** If you evolve into a Pokemon that is over 555 BST, you may use that Pokemon so long as it aligns with Ability rules.
 
-2. All items are allowed in the lab.
+2. All items and moves are allowed in the lab.
 
 3. Pivoting: 
     - You may catch up to 3 total unique mons from any area (they can be all from one area, all different, or a combination), pick which one you want to run between those 3 and lab mon. 
     - You may keep items held by Pokemon. 
-    - You must pivot before the first trainer fight after the lab. 
+    - You must pivot before the first trainer fight after the lab if you are pivoting. 
     - You may NOT pivot again after the first trainer fight. 
     - You may receive EXP from 1 wild mon prior to fighting the first trainer but you MUST run the mon that received EXP and avoid receiving additional EXP from wilds at all costs. 
     - You may use any Mon at the front of your party until you lock in your pivot. 
