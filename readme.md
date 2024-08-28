@@ -26,7 +26,6 @@ No HM Moves on your primary Pokemon. No may use HM moves during double battles w
 You can only enter a dungeon once with your primary Pokemon unless the story requires a revisit.
 You may not use healing stations in Dungeons.
 You must clear (Game progression without leaving to heal) Dungeons before exiting (Beat All Trainers in Gyms including Dojo, clear needed game progress elsewhere).
-**You may return to a Dungeon once with your Safari Pivot.**
 
 ---
 
