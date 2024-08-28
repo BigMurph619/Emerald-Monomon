@@ -174,4 +174,4 @@ Catch rates are 100%
     - Purchased/gifted mon's items are not allowed i.e. Magikarp Route 4, Silph Co. Lapras, Dojo Hitmon. 
     - You may not catch a wild mon unless it is a pivot option, Shiny, or needed for HM friend. 
 
-### [Top](#monomon-rules) | [Core Game Rules](#core-game-rules) | [Settings](#settings) | [FRLG Game Spesifics](#specific-game-rules)
+### [Top](#monomon-rules) | [Core Game Rules](#core-game-rules) | [Settings](#settings) | [FRLG Game Specific](#specific-game-rules)
