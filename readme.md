@@ -1,6 +1,6 @@
 # Monomon Rules
 
-### [Core Game Rules](#core-game-rules) | [Settings](#settings) | [FRLG Game Spesifics](#specific-game-rules)
+### [Core Game Rules](#core-game-rules) | [Settings](#settings) | [FRLG Game Specifics](#specific-game-rules)
 
 # Core Game Rules:
 
