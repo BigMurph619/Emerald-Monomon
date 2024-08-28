@@ -82,6 +82,8 @@ You must clear (Game progression without leaving to heal) Dungeons before exitin
 
 Any pure setup move that isn't temporary and doesn't deal damage, such as `Swords Dance, Focus Energy, Defense Curl,` etc.
 
+**NOTE:** Moves that damage heal like Giga Drain are allowed 
+
 # Other General Rules
 
 No healing outside of battle: PP, Health, or Status. You may use Rare Candy, PP UP, or PP MAX.
