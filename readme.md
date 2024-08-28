@@ -113,9 +113,7 @@ Forced Fully Evolved at Level 30.
 All Boss trainers must have 3 additional Pokemon
 
 Catch rates are 100%
-
-Settings String: 
-
+ 
 # FRLG Murphmon Settings String
 
 ```bash
