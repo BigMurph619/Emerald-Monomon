@@ -105,7 +105,9 @@ All shinies are free catches or kills.
 5. Done
 
 
-[Java](https://www.java.com/en/download/manual.jsp) Might need to be downloaded if you dont already have it
+[Java](https://www.java.com/en/download/manual.jsp) 
+
+>Java might need to be downloaded if you dont already have it
 
 [Recommended Randomizer](https://github.com/PyroMikeGit/SuperKaizoIronMON/releases/tag/smart-ai-v2)
 
