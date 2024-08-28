@@ -1,5 +1,7 @@
 # Monomon Rules
 
+Created by [BigMurph619](https://www.twitch.tv/bigmurph619)
+
 ### [Core Game Rules](#core-game-rules) | [Settings](#settings) | [FRLG Game Specifics](#specific-game-rules) | [Credits](#Credits)
 
 # Core Game Rules:
