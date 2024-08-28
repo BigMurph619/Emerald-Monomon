@@ -177,5 +177,6 @@ Catch rates are 100%
 # Credits
  - [iateyourpie](https://www.twitch.tv/iateyourpie) Inspired by Kaizo IronMON
  - [PyroMike](https://github.com/PyroMikeGit) For the Smart AI Randomizer v2
+ - [UTDZac](https://github.com/UTDZac/Ironmon-Tracker) For the Ironmon Tracker
 
 ### [Top](#monomon-rules) | [Core Game Rules](#core-game-rules) | [Settings](#settings) | [FRLG Game Specific](#specific-game-rules)
