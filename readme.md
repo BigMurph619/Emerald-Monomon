@@ -43,6 +43,7 @@ You must clear (Game progression without leaving to heal) Dungeons before exitin
 |Silph co       |
 |Pokemon Mansion|
 |SS Anne        |
+| :-----------: |
 |     Caves     |
 | :-----------: |
 |Mt. Moon       |
