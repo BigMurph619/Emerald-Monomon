@@ -35,7 +35,7 @@ You must clear (Game progression without leaving to heal) Dungeons before exitin
 
 > Note: Caves below class as Dungeons 
 
-|    Dungeons   |
+|  **Dungeons** |
 | :-----------: |
 |All Gyms       |
 |Lavender Tower |
