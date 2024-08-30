@@ -23,7 +23,7 @@ You may not intentionally kill a wild Pokemon for EXP unless game progression re
 
 No Redos: You may not re-fight trainers at any point using the VS Seeker or other means. You may not abuse respawning items by picking them up more than once
 
-No HM Moves on your primary Pokemon. No may use HM moves during double battles with your second Pokemon.
+No HM Moves on your primary Pokemon. You may use HM moves during double battles with your second Pokemon.
 
 You are not allowed to setup for boss fights
 
