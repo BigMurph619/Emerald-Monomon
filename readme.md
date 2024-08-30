@@ -66,7 +66,7 @@ You must clear (Game progression without leaving to heal) Dungeons before exitin
 
 `Any non-consumable held items. Reviving items.`
 
-**NOTE:** You may use all flutes other than the `Poke Flute`
+`All flutes banned`
 
 >Poke Flute can be used to wake Snorlax
 
