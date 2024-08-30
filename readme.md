@@ -142,7 +142,7 @@ All shinies are free catches or kills.
 
 8. SS Anne EXP and item farming is allowed (Treat this as a dungeon).
 
-9. You must beat Erika before waking up Snorlax.
+9. You must beat Erika before tower.
 
 10. You must beat the Dojo before entering Silph Co.
 
