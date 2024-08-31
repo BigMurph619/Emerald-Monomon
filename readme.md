@@ -84,7 +84,7 @@ You must clear (Game progression without leaving to heal) Dungeons before exitin
 
 **NOTE:** You are allowed to use a banned move either through **Transform, metronome or after copying it using Mimic or Mirror Move.**
 
-Any pure setup move that isn't temporary and doesn't deal damage, such as `Swords Dance, Focus Energy, Defense Curl,` etc.
+Any pure setup move that isn't temporary and doesn't deal damage, such as `Swords Dance, Focus Energy, Defense Curl,` etc. Can not be used on bosses.
 
 **NOTE:** Moves that damage heal like Giga Drain are allowed 
 
