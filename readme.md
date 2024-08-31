@@ -25,7 +25,7 @@ No Redos: You may not re-fight trainers at any point using the VS Seeker or othe
 
 No HM Moves on your primary Pokemon. You may use HM moves during double battles with your second Pokemon.
 
-You are not allowed to setup for boss fights
+You are not allowed to pure setup for boss fights not including; X defense, X accuracy, Guard Spec 
 
 You can only enter a dungeon once with your primary Pokemon unless the story requires a revisit.
 You may not use healing stations in Dungeons.
