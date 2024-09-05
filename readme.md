@@ -100,7 +100,7 @@ All shinies are free catches or kills.
 
 # Settings
 
-1. Download the Randomizer below, and the [rnqs file](https://github.com/DeathDoors/Monomon/blob/87a8239b657ed6de26775831776a753746f7a279/MonomonV1.1.rnqs)
+1. Download the Randomizer below, and the [rnqs file](https://github.com/BigMurph619/Monomon/blob/b6c6873070c772c070f0a73d9b7146ae5d8079e3/MonomonV1.1.rnqs)
 2. Open the randomizer then open your ROM (Fire Red 1.1)
 3. Load settings click the downloaded rnqs
 4. Then Randomize (Save)
