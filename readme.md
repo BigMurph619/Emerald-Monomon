@@ -62,12 +62,9 @@ You must clear (Game progression without leaving to heal) Dungeons before exitin
 
 # Banned items:
 
-`Any non-consumable held items. Reviving items.`
+`Any non-consumable held items. Reviving items. X Speed, X Attack, X Special Attack on Bosses only` (Gym Leaders, E4, Champ).
 
-`All flutes banned`
-
->Poke Flute can be used to wake Snorlax
-
+**NOTE:** You may not use flutes of any kind except for waking Snorlax.
 # Banned Abilities:
 
 `Battle Armor / Shell Armor`.
