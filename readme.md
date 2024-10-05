@@ -93,16 +93,36 @@ All shinies are free catches or kills.
 
 # Settings
 
-1. Download the Randomizer below, and the [rnqs file](https://github.com/BigMurph619/Monomon/blob/b6c6873070c772c070f0a73d9b7146ae5d8079e3/MonomonV1.1.rnqs)
-2. Open the randomizer then open your ROM (Fire Red 1.1)
-3. Load settings click the downloaded rnqs
-4. Then Randomize (Save)
-5. Done
+Randomize the game. 
 
+All Pokémon, movesets, and items are randomized, with Trainer Pokémon & Wild Pokémon levels increased by 50%. 
+
+All Pokemon must have Fluctuating Growth Rates. 
+
+All opponents must have Smart AI(requires patch or SmartAI randomizer). 
+
+BOSS and IMPORTANT trainers must have sensible and consumable held items. 
+
+All move tutors, TMs, and items must be randomized. 
+
+Static Pokémon MUST NOT have level increase. 
+
+`No "Make Evolutions Easier".`
+
+Forced Fully Evolved at Level 30. 
+
+All Boss trainers must have 3 additional Pokemon. 
+
+Catch Rate set to "5" (100% Catch Rate)
+
+# FRLG Monomon Settings String
+
+```bash
+321WRIEEjIBAAQABwCRAAKeBhsECQEACQACCQAuEgAAAAAABRi45ATkAYYICTIGBAIyGwUgEEZpcmUgUmVkIChVKSAxLjEJWP5M48M4ig==
+```
+These are NOT the same settings as Kaizo IronMON or Murphmon
 
 [Java](https://www.java.com/en/download/manual.jsp) 
-
->Java might need to be downloaded if you dont already have it
 
 [Recommended Randomizer](https://github.com/PyroMikeGit/SuperKaizoIronMON/releases/tag/smart-ai-v2)
 
