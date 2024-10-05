@@ -118,10 +118,8 @@ All shinies are free catches or kills.
 2. All items and moves are allowed in the lab.
 
 3. Pivoting: 
-    - You may catch up to 3 total unique mons from any area (they can be all from one area, all different, or a combination), pick which one you want to run between those 3 and lab mon. 
-    - You may keep items held by Pokemon. 
-    - You must pivot before the first trainer fight after the lab if you are pivoting. 
-    - You may NOT pivot again after the first trainer fight. 
+    - You may catch up to 3 total unique mons from any area (they can be all from one area, all different, or a combination), pick which one you want to run between those 3 and lab mon. You may keep items held by Pokemon. 
+    - You must pivot before the first trainer fight after the lab. You may NOT pivot again after fighting the first trainer.
     - You may receive EXP from 1 wild mon prior to fighting the first trainer but you MUST run the mon that received EXP and avoid receiving additional EXP from wilds at all costs. 
     - You may use any Mon at the front of your party until you lock in your pivot. 
     - You may catch 1 free favorite each. You may catch a second of the same favorite but it will count towards your 3 pivots. 
