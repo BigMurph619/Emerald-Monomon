@@ -69,7 +69,7 @@ You must clear (Game progression without leaving to heal) Dungeons before exitin
 
 `Battle Armor / Shell Armor`.
 
-**NOTE:** Pure Power and huge power are allowed so long as you NEVER use a physical attacking move. Pickup is allowed on primary Pokemon (may not use pickup items from HM friend). Pokemon 420 BST or Lower are exempt from all banned abilities and may be used freely.
+**NOTE:** Pure Power and huge power are allowed so long as you NEVER use a physical attacking move. Pickup is allowed on primary Pokemon (you may not use pickup items from HM friend). Pokemon 420 BST or Lower are exempt from all banned abilities and may be used freely.
 
 # Banned Moves:
 
