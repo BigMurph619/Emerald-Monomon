@@ -117,9 +117,8 @@ Catch Rate set to "5" (100% Catch Rate)
 
 # FRLG Monomon Settings String
 
-```bash
-321WRIEEjIBAAQABwCRAAKeBhsECQEACQACCQAuEgAAAAAABRi45ATkAYYICTIGBAIyGwUgEEZpcmUgUmVkIChVKSAxLjEJWP5M48M4ig==
-```
+Download the [rnqs file](https://github.com/BigMurph619/Monomon/blob/0a3f529c7286215b49ec8e5cd1ccbe8418ccfff0/FRLG-Monomon-Settings-String.rnqs) and can be used in the recommended randomizer
+
 These are NOT the same settings as Kaizo IronMON or Murphmon
 
 [Java](https://www.java.com/en/download/manual.jsp) 
