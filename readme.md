@@ -142,14 +142,14 @@ These are NOT the same settings as Kaizo IronMON or Murphmon
 
 4. All hidden items are allowed. You may only obtain step items once each.
 
-5. All found and gifted TMs are allowed (No purchasing TMs) - all move tutors are allowed (i.e. mega punch/kick guys after mt. Moon). **No HMs.** 
+5. All found, Traded and gifted TMs are allowed (No purchasing TMs) - all move tutors are allowed (i.e. mega punch/kick guys after mt. Moon). **No HMs.** 
     - You may only relearn Sketch once from the move relearner. 
     - You may use Sketch multiple times if you receive the move in any other capacity. 
     - You are allowed to throw balls to scout. BUT, if you accidentally catch a mon while Sketch scouting you must release it and not take its item.
 
 6. You must beat Misty before “Dig” Rocket.
 
-7. You must beat Lt. Surge before entering  Rock Tunnel.
+7. You must beat Lt. Surge before entering Rock Tunnel.
 
 8. SS Anne EXP and item farming is allowed (Treat this as a dungeon).
 
