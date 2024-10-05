@@ -31,7 +31,7 @@ You must clear (Game progression without leaving to heal) Dungeons before exitin
 
 ---
 
-> Note: Caves below class as Dungeons 
+> Note: All caves are dungeons except on Sevii Islands. 
 
 |  **Dungeons** |
 | :-----------: |
