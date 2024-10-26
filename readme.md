@@ -144,7 +144,7 @@ These are NOT the same settings as Kaizo IronMON or Murphmon
 5. All found, Traded and gifted TMs are allowed (No purchasing TMs) - all move tutors are allowed (i.e. mega punch/kick guys after mt. Moon). **No HMs.** 
     - You may only relearn Sketch once from the move relearner. 
     - You may use Sketch multiple times if you receive the move in any other capacity. 
-    - You are allowed to throw balls to scout. BUT, if you accidentally catch a mon while Sketch scouting you must release it and not take its item.
+    - Please note that there are 100% catch rates in Monomon, so throwing balls will not work to scout moves. You may use flutes so long as they don't impact the battle (i.e. wake up sleep, cure confuse, etc.) to scout moves for Sketch.
 
 6. You must beat Misty before “Dig” Rocket.
 
