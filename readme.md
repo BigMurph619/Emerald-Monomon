@@ -175,5 +175,8 @@ These are NOT the same settings as Kaizo IronMON or Murphmon
  - [iateyourpie](https://www.twitch.tv/iateyourpie) Inspired by Kaizo IronMON
  - [PyroMike](https://github.com/PyroMikeGit) For the Smart AI Randomizer v2
  - [UTDZac](https://github.com/UTDZac/Ironmon-Tracker) For the Ironmon Tracker
+ - [kelseyyoung](https://kelseyyoung.github.io/FRLGIronmonMap/) FRLG Interactive Map
+ - [kipoterp](https://ibb.co/c3BLXZP) Sevii Islands Map
+ - [kelseyyoung](https://kelseyyoung.github.io/EmeraldIronmonMap/) RSE Interactive Map
 
 ### [Top](#monomon-rules) | [Core Game Rules](#core-game-rules) | [Settings](#settings) | [FRLG Game Specific](#specific-game-rules)
