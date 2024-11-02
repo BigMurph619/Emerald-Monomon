@@ -174,7 +174,7 @@ If you prefer [rnqs file](https://github.com/BigMurph619/Murphmon/blob/e610a14a5
 19. You must beat Steven after the E4 to win Monomon.
 
 # Credits/Useful Links
- - [iateyourpie](https://www.twitch.tv/iateyourpie) Inspired by Super Kaizo IronMON
+ - [iateyourpie](https://www.twitch.tv/iateyourpie) Inspired by Kaizo IronMON
  - [PyroMike](https://github.com/PyroMikeGit) For the Smart AI Randomizer v2
  - [UTDZac](https://github.com/UTDZac/Ironmon-Tracker) For the Ironmon Tracker
  - [kelseyyoung](https://kelseyyoung.github.io/EmeraldIronmonMap/) RSE Interactive Map
