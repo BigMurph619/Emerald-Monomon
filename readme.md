@@ -89,7 +89,7 @@ All shinies are free catches or kills.
 Use a 60% level boost to Foe and Wild Pokemon instead of 50%. The Randomizer program has a hard limit of 50%, thus a workaround is required to reach 60%:
 First load the vanilla Emerald ROM (or patched ROM) and apply this settings string:
 
-321AAgEAQT8AP8AAgEEAAEeRAABFAAAFABABAABAAAAAAAAAAAAuAS4AQAICTIGBAAyAAIAC0VtZXJhbGQgKFUpunJmsePDOIo=
+321WRIEEjL8AP8AAgGRAAKeBhsECQEACQACCQAuEgAAAAAABBC45ATkAYYICTIGBAIyGQUgC0VtZXJhbGQgKFUpXhJeD+PDOIo=
 
 Click "Randomize (Save)". This is your new "Source ROM"
 Now you have a ROM ready to use the Murphmon setting strings below
