@@ -120,11 +120,7 @@ Catch Rate set to "5" (100% Catch Rate)
 
 # RSE Murphmon Settings String
 
-```bash
-INSERT SETTINGS STRING HERE and update linked rnqs
-```
-
-If you prefer [rnqs file](https://github.com/BigMurph619/Murphmon/blob/e610a14a5c60a1e8b3fce344f5a23746b2c388ea/FRLG%20Murphmon%20Settings%20String.rnqs)
+Download the [rnqs file](https://github.com/BigMurph619/Emerald-Monomon/blob/fd4c65d1efbeb812cb5e65a57f8e106d8bc9dcac/Emerald-Monomon-Settings-String.rnqs) and can be used in the recommended randomizer
 
 [Java](https://www.java.com/en/download/manual.jsp)
 
