@@ -165,9 +165,9 @@ Download the [rnqs file](https://github.com/BigMurph619/Emerald-Monomon/blob/fd4
    
 17. You may use the lotto once in hopes of a PP UP
 
-18. Trainer Hill is banned.
+18. Trainer Hill is banned. SS Anne is allowed.
 
-19. You must beat Steven after the E4 to win Monomon.
+19. You must beat Steven after the E4 to win Monomon. Goodluck Challenger.
 
 # Credits/Useful Links
  - [iateyourpie](https://www.twitch.tv/iateyourpie) Inspired by Kaizo IronMON
