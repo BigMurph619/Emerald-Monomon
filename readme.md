@@ -92,8 +92,8 @@ First load the vanilla Emerald ROM (or patched ROM) and apply this settings stri
 321WRIEEjL8AP8AAgGRAAKeBhsECQEACQACCQAuEgAAAAAABBC45ATkAYYICTIGBAIyGQUgC0VtZXJhbGQgKFUpXhJeD+PDOIo=
 
 Click "Randomize (Save)". This is your new "Source ROM"
-Now you have a ROM ready to use the Murphmon setting strings below
-Load the "Source ROM" from step 2 into the randomizer, then load the Murphmon string below
+Now you have a ROM ready to use the Monomon setting strings below
+Load the "Source ROM" from step 2 into the randomizer, then load the Monomon string below
 Randomize (Save). You're ready to play.
 
 Randomize the game. 
