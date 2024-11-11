@@ -22,7 +22,7 @@ Stolen Items: You may not keep stolen items from wild pokemon with moves like Th
 
 You may not intentionally kill a wild Pokemon for EXP unless game progression requires you to do so, depicted in a specific game rule [(refer to rule 3)](#specific-game-rules) or it is a Shiny Pokemon.
 
-No Redos: You may not re-fight trainers at any point using the VS Seeker or other means (See rule __ for Camera Crew). You may not abuse respawning items by picking them up more than once
+No Redos: You may not re-fight trainers at any point using the VS Seeker or other means (You may fight the Camera Crew once per location). You may not abuse respawning items by picking them up more than once
 
 No HM Moves on your primary Pokemon.
 
@@ -140,34 +140,34 @@ Download the [rnqs file](https://github.com/BigMurph619/Emerald-Monomon/blob/fd4
     - You may catch 1 free favorite each. You may catch a second of the same favorite but it will count towards your 3 pivots. 
     - Banned ability mons don't count towards your catches UNLESS you want to keep its held item (This may only be done once. You may not farm multiple items off of the same illegal mon).
 
-5. All hidden items are allowed.
+4. All hidden items are allowed.
 
-6. All found, traded and gifted TMs are allowed (No purchasing TMs) - all move tutors are allowed. - **No HMs.**
+5. All found, traded and gifted TMs are allowed (No purchasing TMs) - all move tutors are allowed. - **No HMs.**
     - You may only relearn Sketch once from the move relearner.
     - You may use Sketch multiple times if you receive the move in any other capacity.
     - Please note that there are 100% catch rates in Monomon, so throwing balls will not work to scout moves. You may use flutes so long as they don't impact the battle (i.e. wake up sleep, cure confuse, etc.) to scout moves for Sketch.
 
-7. You must fight Brawley before traveling north of Slateport
+6. You must fight Brawley before traveling north of Slateport
 
-8. You may fight the trainers in the Soda Shack AND obtain the Sodas.
+7. You may fight the trainers in the Soda Shack AND obtain the Sodas.
 
-9. You must fight Winona immediately after Kecleon encounter with Steven.
+8. You must fight Winona immediately after Kecleon encounter with Steven.
 
-10. You must fight the Lilycove Rival prior to entering Mt. Pyre.
+9. You must fight the Lilycove Rival prior to entering Mt. Pyre.
 
-11. "Tate and Liza Lad" You must use the gifted weather institute "Castform" as you second Pokemon for the Tate and Liza fight. You may use this Pokemon and its turns freely during the Tate and Liza fight (so long as they align with all other non-doubles rules). Castform should either replace your HM friend or be pulled out specifically for Tate and Liza's gym. Do not have more than 2 Pokemon in your party as this creates an unfair advantage for Doubles Fights.
+10. "Tate and Liza Lad" You must use the gifted weather institute "Castform" as you second Pokemon for the Tate and Liza fight. You may use this Pokemon and its turns freely during the Tate and Liza fight (so long as they align with all other non-doubles rules). Castform should either replace your HM friend or be pulled out specifically for Tate and Liza's gym. Do not have more than 2 Pokemon in your party as this creates an unfair advantage for Doubles Fights.
 
-15. Double battles: You may NOT attack with your second Pokemon. All abilities, however, are allowed. You may fight the camera crew once per location. Avoid bringing additional Pokemon into Doubles Battles by forgetting/re-learning HM moves as needed. There should be no need for more than 2 Pokemon in your party at any time.
+11. Double battles: You may NOT attack with your second Pokemon. All abilities, however, are allowed. Avoid bringing additional Pokemon into Doubles Battles by forgetting/re-learning HM moves as needed. There should be no need for more than 2 Pokemon in your party at any time.
 
-16. All held items found on pivot options/HM friend catches are allowed to be kept. "Catch and release" mon held items are not allowed. 
+12. All held items found on pivot options/HM friend catches are allowed to be kept. "Catch and release" mon held items are not allowed. 
     - Purchased/gifted mon's items are not allowed i.e. Weather Institute Castform. 
     - You may not catch a wild mon unless it is a pivot option, Shiny, or needed for HM friend.
    
-17. You may use the lotto once in hopes of a PP UP
+13. You may use the lotto once in hopes of a PP UP
 
-18. Trainer Hill is banned. SS Anne is allowed.
+14. Trainer Hill is banned. SS Anne is allowed.
 
-19. You must beat Steven after the E4 to win Monomon. Goodluck Challenger.
+15. You must beat Steven after the E4 to win Monomon. Goodluck Challenger.
 
 # Credits/Useful Links
  - [iateyourpie](https://www.twitch.tv/iateyourpie) Inspired by Kaizo IronMON
