@@ -151,7 +151,7 @@ Download the [rnqs file](https://github.com/BigMurph619/Emerald-Monomon/blob/fd4
 
 8. You may fight the trainers in the Soda Shack AND obtain the Sodas.
 
-9. You must fight Winona prior to the Kecleon encounter with Steven.
+9. You must fight Winona immediately after Kecleon encounter with Steven.
 
 10. You must fight the Lilycove Rival prior to entering Mt. Pyre.
 
