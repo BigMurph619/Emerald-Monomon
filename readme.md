@@ -121,6 +121,7 @@ Catch Rate set to "5" (100% Catch Rate)
 # RSE Monomon Settings String
 
 Download the [rnqs file](https://raw.githubusercontent.com/BigMurph619/Emerald-Monomon/refs/heads/main/Emerald-Monomon-Settings-String.rnqs) and can be used in the recommended randomizer
+To download rnqs right click and save link as.
 
 [Java](https://www.java.com/en/download/manual.jsp)
 
