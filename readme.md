@@ -169,7 +169,7 @@ Download the [rnqs file](https://raw.githubusercontent.com/BigMurph619/Emerald-M
 
 14. Trainer Hill is banned. SS Anne is allowed.
 
-15. You must defeat Steven after the E4 to beat Murphmon. ANYTHING GOES. ALL moves, held items, X items, etc. Goodluck Challenger.
+15. You must defeat Steven after the E4 to beat Monomon. ALL moves (except HMs), held items, X items, etc. are allowed for this fight. Goodluck Challenger.
 
 # Credits/Useful Links
  - [iateyourpie](https://www.twitch.tv/iateyourpie) Inspired by Kaizo IronMON
