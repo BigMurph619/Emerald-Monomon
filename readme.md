@@ -159,7 +159,7 @@ Download the [rnqs file](https://raw.githubusercontent.com/BigMurph619/Emerald-M
 
 9. You must fight the Lilycove Rival prior to entering Mt. Pyre.
 
-10. "Tate and Liza Lad" You must use the gifted weather institute "Castform" as you second Pokemon for the Tate and Liza fight. You may use this Pokemon and its turns freely during the Tate and Liza fight (so long as they align with all other non-doubles rules). Castform should either replace your HM friend or be pulled out specifically for Tate and Liza's gym. Do not have more than 2 Pokemon in your party as this creates an unfair advantage for Doubles Fights.
+10. "Tate and Liza Lad" You must use the gifted weather institute "Castform" as you second Pokemon for the Tate and Liza fight. You may use this Pokemon and its turns freely during the Tate and Liza fight (so long as they align with all other non-doubles rules, i.e. no setup on bosses, no HM moves, etc.).  "Castform" should either replace your HM friend or be pulled out specifically for Tate and Liza's gym. Do not have more than 2 Pokemon in your party as this creates an unfair advantage for Doubles Fights.
 
 11. Double battles: You may NOT attack with your second Pokemon. All abilities, however, are allowed. Avoid bringing additional Pokemon into Doubles Battles by forgetting/re-learning HM moves as needed. There should be no need for more than 2 Pokemon in your party at any time.
 
