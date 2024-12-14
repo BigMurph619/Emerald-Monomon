@@ -96,7 +96,7 @@ Now you have a ROM ready to use the Monomon setting strings below
 Load the "Source ROM" from step 2 into the randomizer, then load the Monomon string below
 Randomize (Save). You're ready to play.
 
-Randomize the game. 
+Settings String Notes: 
 
 All Pokémon, movesets, and items are randomized.
 
@@ -145,6 +145,8 @@ Download the [rnqs file](https://raw.githubusercontent.com/BigMurph619/Emerald-M
 4. All hidden items are allowed.
 
 5. All found, traded and gifted TMs are allowed (No purchasing TMs) - all move tutors are allowed. - **No HMs.**
+    - You may catch one grass Pokemon if you do not have one to obtain TM19 south of Mt. Pyre.
+    - You may catch one low base friendship Pokemon to receive TM21 in Pacifidlog.
     - You may only relearn Sketch once from the move relearner.
     - You may use Sketch multiple times if you receive the move in any other capacity.
     - Please note that there are 100% catch rates in Monomon, so throwing balls will not work to scout moves. You may use flutes so long as they don't impact the battle (i.e. wake up sleep, cure confuse, etc.) to scout moves for Sketch.
